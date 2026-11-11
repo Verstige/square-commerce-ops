@@ -1,0 +1,18 @@
+{
+  "name": "square-commerce-ops",
+  "displayName": "Square Commerce Ops",
+  "version": "1.0.0",
+  "description": "Run Square commerce across catalog, inventory, payments, and sales attribution: create, read, and update the catalog and keep stock honest.",
+  "author": {
+    "name": "the maintainers"
+  },
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "agent",
+    "square commerce ops"
+  ],
+  "skills": [
+    "./skills/"
+  ]
+}

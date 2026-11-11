@@ -1,0 +1,19 @@
+{
+  "name": "square-commerce-ops",
+  "description": "Run Square commerce across catalog, inventory, payments, and sales attribution: create, read, and update the catalog and keep stock honest.",
+  "owner": {
+    "name": "Julylan Johnson",
+    "url": "https://github.com/Verstige"
+  },
+  "metadata": {
+    "description": "Run Square commerce across catalog, inventory, payments, and sales attribution: create, read, and update the catalog and keep stock honest.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "square-commerce-ops",
+      "source": "./plugins/square-commerce-ops",
+      "description": "Run Square commerce across catalog, inventory, payments, and sales attribution: create, read, and update the catalog and keep stock honest."
+    }
+  ]
+}
